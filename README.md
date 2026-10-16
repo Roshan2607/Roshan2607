@@ -1,9 +1,4 @@
 <div align="center">
-  <img src="./assets/profile-banner.svg" width="100%" alt="Roshan — systems, machine learning, and AI infrastructure" />
-  <br />
-  <p><strong>Computer Science & Engineering · PES University</strong></p>
-  <p>Building practical software across systems, machine learning, and AI infrastructure.</p>
-  <p>
     <a href="https://github.com/Roshan2607?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-111827?style=flat&logo=github&logoColor=white" alt="Explore repositories" /></a>
     <a href="https://github.com/Roshan2607/Insomnia-Project"><img src="https://img.shields.io/badge/Featured-Insomnia_Project-0f766e?style=flat" alt="Insomnia Project" /></a>
   </p>
